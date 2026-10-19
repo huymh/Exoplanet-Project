@@ -1,6 +1,6 @@
 # Data (download instructions in data/README.md)
-data/*
-!data/README.md
+#data/*
+#!data/README.md
 
 # Python
 __pycache__/
